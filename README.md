@@ -3,9 +3,7 @@
   Implemented Fault-Tolerance with consistent hashing, so if one node fails, it fails independently. A node failing results in its information being redistributed to a neighbor node without affecting other nodes, increasing performance by over 300%.</br>
   Supports view operations, shared operations, and key-value operations.
 </p>
-<h3 align="center">
-  A Google Keep clone where users can create responsive note snippets.</br>
-</h3>
+<h1></h1>
 <h4 align="center">
    Utilized React, Babel, ES6, JSX, Hooks, Html/CSS, State Management, Containers, Virtual DOM, and Declarative Programming
  to keep this web application highly responsive, modular, and easy to read.
