@@ -9,18 +9,19 @@
  to keep this web application highly responsive, modular, and easy to read.
 </h4>
 <h1></h1>
-<h3 align="center">Home Page</h3>
+<h3 align="center">Causal Consistency</h3>
 <p align="center">
   <img src="images/DS-causalanomaly.png" />
   <img src="images/DS-causalbroad.png" />
 </p>
-<h3 align="center">Clean Interface</h3>
+<h3 align="center">Consistent Hashing</h3>
 <p align="center">
   <img src="images/DS-default.png" />
   <img src="images/DS-newnode.png" />
   <img src="images/DS-crash.png" />
 </p>
 
+<p>
 For test script:
 If there is an error in the reshard endpoint, increase the TIMEOUT value please.
 For a small number of keys, it takes a short time, but for a lot of keys it takes a long time
@@ -29,3 +30,4 @@ to execute in this endpoint.
 Ex:
 600 keys
 TIMEOUT = 700-800
+</p>
