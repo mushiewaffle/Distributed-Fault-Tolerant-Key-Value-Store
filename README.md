@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="images/google-title.png" />
+  Built a Distributed sharded Key-Value store that maintains causal consistency with vector clocks ensuring events take place in order.</br>
+  Implemented Fault-Tolerance with consistent hashing, so if one node fails, it fails independently. A node failing results in its information being redistributed to a neighbor node without affecting other nodes, increasing performance by over 300%.</br>
+  Supports view operations, shared operations, and key-value operations.
 </p>
 <h3 align="center">
   A Google Keep clone where users can create responsive note snippets.</br>
