@@ -4,11 +4,6 @@
   Supports view operations, shared operations, and key-value operations.
 </p>
 <h1></h1>
-<h4 align="center">
-   Utilized React, Babel, ES6, JSX, Hooks, Html/CSS, State Management, Containers, Virtual DOM, and Declarative Programming
- to keep this web application highly responsive, modular, and easy to read.
-</h4>
-<h1></h1>
 <h3 align="center">Causal Consistency</h3>
 <p align="center">
   <img src="images/DS-causalanomaly.png" />
