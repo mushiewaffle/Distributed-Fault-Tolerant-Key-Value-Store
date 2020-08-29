@@ -200,8 +200,6 @@ def reshard_endpoint():
         return {"message":"Resharding done successfully"}
 
 ### function used for broadcasting, works well
-### recursion based
-### ignore getv2 for now
 ### given a view list without the current replica address,
 ### first try to access that address, and then remove it from the view list
 ### after that break out of the loop and return with the shortened view list
