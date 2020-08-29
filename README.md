@@ -2,7 +2,7 @@
   <img src="images/DKV-title.png" />
 </p>
 <p align="center">
-  Built a Distributed sharded Key-Value store that maintains causal consistency with vector clocks ensuring events take place in order.</br>
+  Built a REST-accessible, sharded, replicated Key-Value store on a collection of Docker instances. Causal consistency maintained with vector clocks ensuring events take place in the right order.</br>
   Implemented Fault-Tolerance with consistent hashing, so if one node fails, it fails independently. A node failing results in its information being redistributed to a successor node without affecting other nodes, increasing performance by over 300%.</br>
   Supports view operations, shared operations, and key-value operations.
 </p>
