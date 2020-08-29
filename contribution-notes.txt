@@ -1,4 +1,4 @@
 Eshan Bhargava - completed Shard Operations and the Key-Value Operations
-Kevin Almeida - completed broken Assignment 3 implementation and helped with with the Key-Value Operations
+Kevin Almeida - completed broken Assignment 3 implementation and Key-Value Operations
 Kevin Wu - completed View Operations and Key-Value Operations
 
